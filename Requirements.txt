@@ -1,0 +1,33 @@
+CST620 Project Checklist
+Student Name: 
+Date:
+Project 1: Requires the Following THREE Pieces
+1. Enterprise Key Management Plan (8 to 10 pages)
+2. Enterprise Key Management Policy (2 to 3 pages, double-spaced)
+3. Lab Experience Report with Screenshots
+Specific Details
+1. Enterprise Key Management Plan (8-10 pages)
+Identify Components of Key Management
+Provide a high-level, top-layer network view (diagram) of the systems in Superior Health Care
+Identify data at rest, data in use, and data in motion. Identify where data are stored and how it’s accessed.
+Identify areas where  insecure handling may be a concern for your organization.
+Identify Key Management Gaps, Risks, Solutions, and Challenges
+Incorporate and cite actual gaps in key management within your key management plan.
+Identify crypto attack and other risks to the cryptographic systems posed by these gaps.
+Propose solutions organizations may use to address these gaps and identify necessary components of these solutions.
+Identify challenges, including remedies, other organizations have faced in implementing a key management system
+Provide a summary table of the information within your key management plan.
+Provide Additional Considerations for the CISO
+Explain the uses of encryption and the benefits of securing communications by hash functions and other types of encryption. 
+Evaluate and assess whether or not to incorporate file encryption full disc encryption, and partition encryption.
+Discuss the benefits of using DES, triple DES, or other encryption technologies.
+Describe the use and purpose of hashes and digital signatures in providing message authentication and integrity.
+Explain the use of cryptography and cryptanalysis in data confidentiality. 
+Determine if it will be more effective to develop the SEs to perform these tasks, taking into consideration the need, cost, and benefits of adding cryptanalysts to the organization’s workforce. 
+Discuss alternative ways for obtaining cryptanalysis if the organization chooses not to maintain this new skilled community in-house
+Explain the concepts and practices commonly used for data confidentiality: the private and public key protocol for authentication, public key infrastructure (PKI), the x.509 cryptography standard, and PKI security
+Analyze Cryptographic Systems
+Describe the cryptographic system, its effectiveness and efficiencies.
+Provide an analysis of the trade-offs of different cryptographic systems.
+Include information on Security index rating, Level of complexity, and Availability or utilization of system resources 
+the possible complexity and expense of implementing and operating various cryptographic ciphers
